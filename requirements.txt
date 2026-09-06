@@ -1,0 +1,2 @@
+# Runtime deps for the ComfyUI host process only (subprocess runner).
+# AnyTop's heavy stack lives in anytop_venv/, created by the Setup node.
